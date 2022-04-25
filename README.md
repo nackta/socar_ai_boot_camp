@@ -1,2 +1,2 @@
-# socar_ai_boot_camp
-socar_ai_boot_camp
+# socar ai boot camp
+socar ai 부트캠프 내용 정리
